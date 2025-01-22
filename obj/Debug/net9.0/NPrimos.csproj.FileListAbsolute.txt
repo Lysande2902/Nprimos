@@ -1,0 +1,14 @@
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\bin\Debug\net9.0\NPrimos.exe
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\bin\Debug\net9.0\NPrimos.deps.json
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\bin\Debug\net9.0\NPrimos.runtimeconfig.json
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\bin\Debug\net9.0\NPrimos.dll
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\bin\Debug\net9.0\NPrimos.pdb
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\obj\Debug\net9.0\NPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\obj\Debug\net9.0\NPrimos.AssemblyInfoInputs.cache
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\obj\Debug\net9.0\NPrimos.AssemblyInfo.cs
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\obj\Debug\net9.0\NPrimos.csproj.CoreCompileInputs.cache
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\obj\Debug\net9.0\NPrimos.dll
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\obj\Debug\net9.0\refint\NPrimos.dll
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\obj\Debug\net9.0\NPrimos.pdb
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\obj\Debug\net9.0\NPrimos.genruntimeconfig.cache
+C:\Users\yengl\Desktop\Proyecto1\Nprimos\obj\Debug\net9.0\ref\NPrimos.dll
